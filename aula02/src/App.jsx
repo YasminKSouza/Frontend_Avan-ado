@@ -1,11 +1,12 @@
 import React from 'react'
-import RenderizandoComFuncoes from './Components/RenderizandoComFuncoes'
+import TrabalhandoComImagens from './Components/TrabalhandoComImagens'
+
 
 
 const App = () => {
   return (
     <div>
-      <RenderizandoComFuncoes />
+      <TrabalhandoComImagens/>
     </div>
   )
 }
