@@ -1,12 +1,11 @@
 import React from 'react'
-import TrabalhandoComImagens from './Components/TrabalhandoComImagens'
-
+import HookMegaSena from './Components/HookMegaSena'
 
 
 const App = () => {
   return (
     <div>
-      <TrabalhandoComImagens/>
+      <HookMegaSena />
     </div>
   )
 }
