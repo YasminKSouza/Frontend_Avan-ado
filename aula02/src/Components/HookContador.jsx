@@ -18,4 +18,4 @@ const HookContador = () => {
   )
 }
 
-export default HookContador
+export default HookContador
